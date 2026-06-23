@@ -33,7 +33,7 @@ Escreva trechos de códigos que justiquem a necessidade da existencia dos temas 
 
 1. Classes e objetos
 
-- [Resolução 1](link)
+- [Resolução 1](https://www.typescriptlang.org/play/?#code/PTAECkFUGUBUEkBi8DCBBBA1NAuUAoEUAWlLPIsquptrrsLAFEBnAFwFNQBjAZ4BMAlgHMA9qH4cAtqIB27AE4BDUOICuLcZJ4AbJSxZcuogEYArDm1EsAdI1AA5Djo4AaUB3ZKZLHgsFKsvxaggBuHAqavhpqAIf+1qAADkrKoGpSoCyCnHZEAAr+UhyCysWynO6ebLFZHEHqbII6ggBeSsGqyakdIlIqSQqi3Bz8aso6oAAUctrc-t6J-bJqSjrlnKrRLHEJLO6cDaAAjmpcChxJlqV1GqBKbP4mala+XFIAl1bBLACUeWAADKiMT3JK8fYedi1QxHF7NNodcTiFLKITCfqqfz1NhI+6qcyWazuWZceYBHzpTHcPQGLinLiGBThCTvUQ6bSolSmCyvexXBRSHKCBrEWSJC7wlrtBSgcUGcR8dFad6BEppfqCN4AM0E3EEOI4dnsaBMogU-CUwmkoEKw1G4zW+G4cnY6R2qUEogAjOLiqAALygABE4FEAGPRMGANzO11sd2rBLe6RKZpB4NmURKUQAAVTzRsLqkMfwcfkCZintEACY-VwMwBZT1KUsuiuJ6s1guTDP9Bb5zU6IuiEuxk1mi1Wm0AeWxFQ6KhUM8JfJp+l8kA9CVAAG98KBD3LRxw8IoRcJY0ePEOz48L+Pr+3FGpuFYFFN63f-LJhFVb1k96-r8e4HteR5sAAFlqNj1oGx7FFe4GHlBME9vBPZIYeAC++C4eWbpVgkADM8GyBwADuoBbkmXpTMGKCpDo1jBu4wbcEx1iDmmw7FsGvyxs+lbbl6AAsZGUdRImiPRaCyK2bGBEo3GFnxAn4EAA)
 
 - [Resolução 2](link)
 
@@ -163,7 +163,7 @@ Escreva trechos de códigos que justiquem a necessidade da existencia dos temas 
 
 - [Resolução 2](link)
 
-24. Classes e herança de classes de erro
+23. Classes e herança de classes de erro
 
 - [Resolução 1](link)
 
